@@ -1,0 +1,40 @@
+#result {
+  display: none;
+}
+
+
+.agent {
+ background: url('../images/cia_agent.jpeg') no-repeat center center fixed;
+ background-size: 100%; 
+}
+
+.black {
+  background-color: black;
+  
+  font-size: 25px;
+  font-style: italic;
+ 
+}
+
+.centered {
+  text-align: center;
+  float: none;
+  top-margin: 200px;
+  vertical-align: middle;
+}
+ 
+#result{
+  color: white;
+}
+
+#encrypt {
+  text-align: center;
+}
+
+button#submit-button{
+  background-color: #ff0000;
+}
+
+.form-label {
+  color: #ff0000;
+}
